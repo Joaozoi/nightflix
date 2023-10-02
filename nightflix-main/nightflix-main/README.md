@@ -1,6 +1,5 @@
 # Nightflix
 
-<p>brunols7</p>
 Projeto Serviço de Streaming - Atividade Final 3 Bimestre Senac
 
 ### Como usar:
